@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dawid\\OneDrive\\Pulpit\\Magisterka\\Programy\\nadzorujący\\Kontroler.csproj": {}
+    "C:\\Users\\Dawid\\OneDrive\\Pulpit\\Programy\\Nadzorujący\\Nadzorujący\\Kontroler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dawid\\OneDrive\\Pulpit\\Magisterka\\Programy\\nadzorujący\\Kontroler.csproj": {
+    "C:\\Users\\Dawid\\OneDrive\\Pulpit\\Programy\\Nadzorujący\\Nadzorujący\\Kontroler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dawid\\OneDrive\\Pulpit\\Magisterka\\Programy\\nadzorujący\\Kontroler.csproj",
+        "projectUniqueName": "C:\\Users\\Dawid\\OneDrive\\Pulpit\\Programy\\Nadzorujący\\Nadzorujący\\Kontroler.csproj",
         "projectName": "Kontroler",
-        "projectPath": "C:\\Users\\Dawid\\OneDrive\\Pulpit\\Magisterka\\Programy\\nadzorujący\\Kontroler.csproj",
+        "projectPath": "C:\\Users\\Dawid\\OneDrive\\Pulpit\\Programy\\Nadzorujący\\Nadzorujący\\Kontroler.csproj",
         "packagesPath": "C:\\Users\\Dawid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dawid\\OneDrive\\Pulpit\\Magisterka\\Programy\\nadzorujący\\obj\\",
+        "outputPath": "C:\\Users\\Dawid\\OneDrive\\Pulpit\\Programy\\Nadzorujący\\Nadzorujący\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

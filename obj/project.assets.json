@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dawid\\OneDrive\\Pulpit\\Programy\\Nadzorujący\\Nadzorujący\\Nadzorujący.csproj",
-      "projectName": "Nadzorujący",
-      "projectPath": "C:\\Users\\Dawid\\OneDrive\\Pulpit\\Programy\\Nadzorujący\\Nadzorujący\\Nadzorujący.csproj",
+      "projectUniqueName": "C:\\Users\\Dawid\\OneDrive\\Pulpit\\Programy\\Nadzorujący\\Nadzorujący\\Kontroler.csproj",
+      "projectName": "Kontroler",
+      "projectPath": "C:\\Users\\Dawid\\OneDrive\\Pulpit\\Programy\\Nadzorujący\\Nadzorujący\\Kontroler.csproj",
       "packagesPath": "C:\\Users\\Dawid\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Dawid\\OneDrive\\Pulpit\\Programy\\Nadzorujący\\Nadzorujący\\obj\\",
       "projectStyle": "PackageReference",
