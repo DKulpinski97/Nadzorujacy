@@ -1,0 +1,15 @@
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\nadzorujący\bin\Release\netcoreapp3.1\Kontroler.exe
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\nadzorujący\bin\Release\netcoreapp3.1\Kontroler.deps.json
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\nadzorujący\bin\Release\netcoreapp3.1\Kontroler.runtimeconfig.json
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\nadzorujący\bin\Release\netcoreapp3.1\Kontroler.runtimeconfig.dev.json
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\nadzorujący\bin\Release\netcoreapp3.1\Kontroler.dll
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\nadzorujący\bin\Release\netcoreapp3.1\Kontroler.pdb
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\nadzorujący\obj\Release\netcoreapp3.1\Kontroler.csproj.AssemblyReference.cache
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\nadzorujący\obj\Release\netcoreapp3.1\Kontroler.Form1.resources
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\nadzorujący\obj\Release\netcoreapp3.1\Kontroler.csproj.GenerateResource.cache
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\nadzorujący\obj\Release\netcoreapp3.1\Kontroler.AssemblyInfoInputs.cache
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\nadzorujący\obj\Release\netcoreapp3.1\Kontroler.AssemblyInfo.cs
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\nadzorujący\obj\Release\netcoreapp3.1\Kontroler.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\nadzorujący\obj\Release\netcoreapp3.1\Kontroler.dll
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\nadzorujący\obj\Release\netcoreapp3.1\Kontroler.pdb
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\nadzorujący\obj\Release\netcoreapp3.1\Kontroler.genruntimeconfig.cache

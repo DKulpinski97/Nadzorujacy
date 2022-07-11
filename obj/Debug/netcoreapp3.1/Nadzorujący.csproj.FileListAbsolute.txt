@@ -1,0 +1,15 @@
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Nadzorujący\Nadzorujący\bin\Debug\netcoreapp3.1\Nadzorujący.exe
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Nadzorujący\Nadzorujący\bin\Debug\netcoreapp3.1\Nadzorujący.deps.json
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Nadzorujący\Nadzorujący\bin\Debug\netcoreapp3.1\Nadzorujący.runtimeconfig.json
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Nadzorujący\Nadzorujący\bin\Debug\netcoreapp3.1\Nadzorujący.runtimeconfig.dev.json
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Nadzorujący\Nadzorujący\bin\Debug\netcoreapp3.1\Nadzorujący.dll
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Nadzorujący\Nadzorujący\bin\Debug\netcoreapp3.1\Nadzorujący.pdb
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Nadzorujący\Nadzorujący\obj\Debug\netcoreapp3.1\Nadzorujący.csproj.AssemblyReference.cache
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Nadzorujący\Nadzorujący\obj\Debug\netcoreapp3.1\Kontroler.Form1.resources
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Nadzorujący\Nadzorujący\obj\Debug\netcoreapp3.1\Nadzorujący.csproj.GenerateResource.cache
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Nadzorujący\Nadzorujący\obj\Debug\netcoreapp3.1\Nadzorujący.AssemblyInfoInputs.cache
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Nadzorujący\Nadzorujący\obj\Debug\netcoreapp3.1\Nadzorujący.AssemblyInfo.cs
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Nadzorujący\Nadzorujący\obj\Debug\netcoreapp3.1\Nadzorujący.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Nadzorujący\Nadzorujący\obj\Debug\netcoreapp3.1\Nadzorujący.dll
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Nadzorujący\Nadzorujący\obj\Debug\netcoreapp3.1\Nadzorujący.pdb
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Nadzorujący\Nadzorujący\obj\Debug\netcoreapp3.1\Nadzorujący.genruntimeconfig.cache
